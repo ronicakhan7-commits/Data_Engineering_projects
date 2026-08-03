@@ -28,8 +28,7 @@ INSERT INTO cust (id, name, salary) VALUES
 -- Data Retrieval & Sorting
 SELECT * FROM cust WHERE salary > 50000;
 SELECT * FROM cust ORDER BY salary ASC;
-'''
-
+```
 ### workbench execution output
 ![sql execution output](sql_result.png)
 
