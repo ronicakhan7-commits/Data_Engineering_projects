@@ -27,3 +27,5 @@ INSERT INTO cust (id, name, salary) VALUES
 -- Data Retrieval & Sorting
 SELECT * FROM cust WHERE salary > 50000;
 SELECT * FROM cust ORDER BY salary ASC;
+### 📸 Workbench Execution Output
+![SQL Execution Output](sql_output.png)
